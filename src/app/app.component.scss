@@ -1,0 +1,10 @@
+:host {
+  display: grid;
+  grid-template: 
+    "toolbar" auto
+    "content" 1fr
+    "footer" auto;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
